@@ -14,5 +14,8 @@ Ready to code Gitpod Workspace(s) for quick access.
 # Android Development
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/android)
 
+# Android Development with Flutter
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/android_flutter)
+
 # Kernel Related (Not ideal for Kernel building)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/kernel)
