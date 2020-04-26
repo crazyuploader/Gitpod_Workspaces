@@ -8,7 +8,7 @@ Ready to code Gitpod Workspace(s) for quick access.
 # Java
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/java)
 
-# CPP
+# C++
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/cpp)
 
 # Android Development
