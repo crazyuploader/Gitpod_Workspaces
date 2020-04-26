@@ -1,6 +1,6 @@
 **Gitpod Workspaces**
 ---
-Ready to go Gitpod Workspaces for quick access.
+Ready to code Gitpod Workspace(s) for quick access.
 
 # Python
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/python)
