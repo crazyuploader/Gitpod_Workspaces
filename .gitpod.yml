@@ -1,1 +1,1 @@
-image: crazyuploader/android_sdk:flutter
+image: crazyuploader/android_sdk_flutter:latest
