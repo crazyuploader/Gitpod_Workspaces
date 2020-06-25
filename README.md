@@ -11,6 +11,9 @@ Ready to code Gitpod Workspace(s) for quick access.
 # C++
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/cpp)
 
+# Minimal Ubuntu
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/minimal_ubuntu)
+
 # NodeJS
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/nodejs)
 
