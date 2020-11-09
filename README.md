@@ -37,3 +37,7 @@ Ready to code Gitpod Workspace(s) for quick access.
 - Kernel Related (Not ideal for Kernel building)
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/kernel)
+
+- SpeedTest
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/crazyuploader/Gitpod_Workspaces/tree/speedtest)
