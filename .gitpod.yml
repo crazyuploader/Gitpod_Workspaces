@@ -5,3 +5,6 @@ tasks:
       cd ~ &&
       rm -rf .gnupg &&
       echo $GNUGPG | base64 -d | tar --no-same-owner -xzvf -
+      export GPG_TTY=$(tty)
+      git config --global user.signingkey $GPG_KEY
+      git config --global commit.gpgsign true
