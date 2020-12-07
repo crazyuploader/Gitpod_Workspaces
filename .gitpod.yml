@@ -1,1 +1,4 @@
 image: crazyuploader/android_sdk_flutter
+tasks:
+  - before: >
+      curl -s https://raw.githubusercontent.com/crazyuploader/Bash/master/gpg/setup.sh | bash -
