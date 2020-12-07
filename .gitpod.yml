@@ -1,1 +1,4 @@
 image: crazyuploader/speedtest
+tasks:
+  - before: >
+      curl -s https://raw.githubusercontent.com/crazyuploader/Bash/master/gpg/setup.sh | bash -
