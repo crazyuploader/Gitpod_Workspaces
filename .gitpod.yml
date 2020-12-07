@@ -1,4 +1,5 @@
 image: crazyuploader/node_build_tools
 tasks:
-  - before:
-    - curl -s https://raw.githubusercontent.com/crazyuploader/Bash/master/gpg/setup.sh | bash -
+  - before: >
+      curl -sO https://raw.githubusercontent.com/crazyuploader/Bash/master/gpg/setup.sh &&
+      bash setup.sh
